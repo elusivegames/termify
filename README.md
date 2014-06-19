@@ -16,7 +16,7 @@ myproject
 \- skills.htm
 </pre>
 
-Simply drop the index.php file into the myproject folder and navigate to it.
+Simply drop the index.php file into the myproject folder and navigate to it in a web browser, assuming you have a webserver set up that can handle PHP. If you don't, there are plenty of lightweight free options out there.
 <table>
 <tr><td>If you call this page as:</td><td>you get:</td></tr>
 <tr><td>index.php</td><td>the contents of __index__.htm rendered (same as index.php?t=__index__)</td></tr>
