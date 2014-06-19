@@ -85,7 +85,7 @@ sub1/sub3/term1 and sub2/term1 are the same term.
 <table>
 <tr><td>If you are on:</td><td>Then term1 links to:</td></tr>
 <tr><td>sub2/term4</td><td>sub2/term1</td></tr>
-<tr><td>sub1/term3</td><td>sub3/term1</td></tr>
+<tr><td>sub1/term3</td><td>sub1/sub3/term1</td></tr>
 <tr><td>term5</td><td>sub2/term1</tr></tr>
 </table>
 
